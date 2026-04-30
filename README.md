@@ -80,7 +80,7 @@ Identify the main causes of traffic accidents.
 ## Visualization
 Insert your contributing factors chart below:
 
-![Contributing Factors](causes_chart.png)
+![Contributing Factors](https://github.com/Omprakash0009/NewYork-City-Collisions/blob/main/Causes.png?raw=true)
 
 ---
 

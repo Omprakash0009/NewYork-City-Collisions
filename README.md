@@ -61,7 +61,7 @@ Analyze how collisions vary by day of week and time of day.
 ## Visualization
 Insert your weekly/hourly trend chart below:
 
-![Weekly Trends](weekly_trends_chart.png)
+![Weekly Trends]([weekly_trends_chart.png](https://github.com/Omprakash0009/NewYork-City-Collisions/blob/main/Weekly%20trends.png?raw=true)
 
 ---
 

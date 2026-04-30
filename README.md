@@ -42,7 +42,7 @@ Identify monthly and yearly patterns in traffic accidents.
 ## Visualization
 Insert your seasonality chart below:
 
-![Seasonality Chart]([seasonality_chart.png](https://github.com/Omprakash0009/NewYork-City-Collisions/blob/main/NYC%20Collistions.png?raw=true))
+![Seasonality Chart](https://github.com/Omprakash0009/NewYork-City-Collisions/blob/main/NYC%20Collistions.png?raw=true)
 
 ---
 

@@ -40,7 +40,6 @@ Identify monthly and yearly patterns in traffic accidents.
 - Noticeable fluctuations between winter and summer periods  
 
 ## Visualization
-Insert your seasonality chart below:
 
 ![Seasonality Chart](https://github.com/Omprakash0009/NewYork-City-Collisions/blob/main/NYC%20Collistions.png?raw=true)
 
@@ -59,7 +58,7 @@ Analyze how collisions vary by day of week and time of day.
 (Refer to hourly heatmap in dataset for detailed pattern) :contentReference[oaicite:1]{index=1}  
 
 ## Visualization
-Insert your weekly/hourly trend chart below:
+
 
 ![Weekly Trends](https://github.com/Omprakash0009/NewYork-City-Collisions/blob/main/Weekly%20trends.png?raw=true)
 
@@ -78,7 +77,7 @@ Identify the main causes of traffic accidents.
 (Refer to contributing factors table in dataset) :contentReference[oaicite:2]{index=2}  
 
 ## Visualization
-Insert your contributing factors chart below:
+
 
 ![Contributing Factors](https://github.com/Omprakash0009/NewYork-City-Collisions/blob/main/Causes.png?raw=true)
 
